@@ -121,4 +121,4 @@ Docker will configure the rest for you, the project should be available on port 
 
 Reach out to me at one of the following places!
 
-- Email at <a href="mailto:smoensander@gmail.com">`smoensander@gmail.com`</a>
+- Email at <a href="mailto:success.together0303@gmail.com">`success.together0303@gmail.com`</a>
