@@ -1,8 +1,6 @@
-<a href="https://www.instaclone.net"><img src="https://res.cloudinary.com/drwb19czo/image/upload/v1591476975/New_Project_1_yk24bj.png" title="Instaclone" alt="Instaclone banner"></a>
+# Photo And Video Sharing Social Network
 
-# Instaclone
-
-> An instagram clone created with MongoDB, Express, React, and Socket.io
+> A Photo And Video Sharing Social Network created with MongoDB, Express, React, and Socket.io
 
 ![Showcase GIF](/screenshots/NgmjOVkZ4L.gif)
 
@@ -20,11 +18,11 @@
 
 ---
 
-## Installation - Development
+## Development
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Sandermoen/instaclone`
+- Clone this repo to your local machine using `https://github.com/together0303/Photo-Sharing-Social-Network`
 
 ### Setup
 
@@ -45,7 +43,7 @@ $ npm install && cd client && npm install
 > Set up required environment variables
 
 ```javascript
-MONGO_URI= // mongodb://localhost:27017/instaclone
+MONGO_URI= // mongodb://localhost:27017/photosharingnetwork
 JWT_SECRET= // random string: j2390jf09kjsalkj4r93
 CLOUDINARY_API_KEY= // Cloudinary API key
 CLOUDINARY_API_SECRET= // Cloudinary API secret
@@ -74,7 +72,7 @@ The app should launch automatically, enjoy playing around 😄
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Sandermoen/instaclone`
+- Clone this repo to your local machine using `https://github.com/together0303/Photo-Sharing-Social-Network`
 
 ### Setup
 
@@ -87,7 +85,7 @@ The app should launch automatically, enjoy playing around 😄
 > Set up required environment variables
 
 ```javascript
-MONGO_URI= // mongodb://mongo:27017/instaclone
+MONGO_URI= // mongodb://mongo:27017/photosharingnetwork
 JWT_SECRET= // random string: j2390jf09kjsalkj4r93
 CLOUDINARY_API_KEY= // Cloudinary API key
 CLOUDINARY_API_SECRET= // Cloudinary API secret
